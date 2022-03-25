@@ -1,2 +1,2 @@
 Hello World!<br>Hello?!?
-<p>![Metrc Image 1](/CurlyBassoon/assets/images/Employee_List_1.png)</p>
+<p><img src="images/Employee_List_1.png" alt="hi" class="inline"/></p>
